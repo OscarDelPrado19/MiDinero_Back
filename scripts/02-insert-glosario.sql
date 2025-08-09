@@ -1,0 +1,16 @@
+INSERT INTO glosario (termino, definicion) VALUES
+('Presupuesto', 'Plan financiero que establece los ingresos y gastos esperados durante un período específico.'),
+('Ahorro', 'Parte del ingreso que no se gasta y se reserva para el futuro.'),
+('Inversión', 'Colocación de dinero en instrumentos financieros con el objetivo de obtener ganancias.'),
+('Interés', 'Costo del dinero prestado o ganancia obtenida por prestar dinero.'),
+('Inflación', 'Aumento generalizado y sostenido de los precios de bienes y servicios.'),
+('Liquidez', 'Facilidad con la que un activo puede convertirse en dinero en efectivo.'),
+('Diversificación', 'Estrategia de inversión que consiste en distribuir el riesgo entre diferentes activos.'),
+('Fondo de emergencia', 'Dinero reservado para cubrir gastos inesperados o situaciones de crisis.'),
+('Flujo de efectivo', 'Movimiento de dinero que entra y sale de las finanzas personales.'),
+('Activo', 'Bien o derecho que tiene valor económico y puede generar beneficios futuros.'),
+('Pasivo', 'Deuda u obligación financiera que debe pagarse en el futuro.'),
+('Patrimonio neto', 'Diferencia entre el total de activos y el total de pasivos de una persona.'),
+('Tasa de interés', 'Porcentaje que se cobra por el uso del dinero prestado.'),
+('Crédito', 'Dinero que una entidad financiera presta a una persona con la promesa de devolución.'),
+('Débito', 'Cargo o descuento directo de una cuenta bancaria.');
