@@ -27,6 +27,7 @@ C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midi
 C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midinero-backend\src\main\java\com\midinero\controller\UsuarioController.java
 C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midinero-backend\src\main\java\com\midinero\config\SecurityConfig.java
 C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midinero-backend\src\main\java\com\midinero\entity\Usuario.java
+C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midinero-backend\src\main\java\com\midinero\controller\HealthController.java
 C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midinero-backend\src\main\java\com\midinero\security\JwtTokenProvider.java
 C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midinero-backend\src\main\java\com\midinero\controller\MetaAhorroController.java
 C:\Users\oskit\Documents\NovenoCuatri\Dispositivos\MiDinero\backend-Mdinero\midinero-backend\src\main\java\com\midinero\dto\TransaccionDTO.java

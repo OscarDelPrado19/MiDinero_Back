@@ -14,6 +14,7 @@ com\midinero\dto\UsuarioRegistroDTO.class
 com\midinero\entity\Tip.class
 com\midinero\dto\LoginDTO.class
 com\midinero\service\EmailService.class
+com\midinero\controller\HealthController.class
 com\midinero\entity\Glosario.class
 com\midinero\service\NotificacionService.class
 com\midinero\security\JwtAuthenticationFilter.class
